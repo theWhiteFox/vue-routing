@@ -2,10 +2,6 @@
 ```sh
 vue create .
 ```
-# start your app by running the following command
-```sh
-npm run serve
-```
 # vue-routing
 ```sh
 vue add router
@@ -41,4 +37,4 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-https://vueschool.io/articles/vuejs-tutorials/how-to-use-vue-router-a-complete-tutorial/
+[how-to-use-vue-router-a-complete-tutorial](https://vueschool.io/articles/vuejs-tutorials/how-to-use-vue-router-a-complete-tutorial/)
