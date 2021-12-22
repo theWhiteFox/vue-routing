@@ -5,6 +5,9 @@
     <router-link :to="{ name: 'profile', params: { username: 'Steph 2021' } }">
       Profile
     </router-link>
+    <!-- <router-link :to="{ name: 'product', params: { username: 'Steph 2021' } }">
+      Product
+    </router-link> -->
   </div>
   <router-view />
 </template>
