@@ -1,4 +1,7 @@
 # Create a new Vue project
+
+```cd dir```
+
 ```sh
 vue create .
 ```
