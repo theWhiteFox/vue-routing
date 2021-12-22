@@ -1,3 +1,5 @@
+<img alt="Vue logo" src="./src/assets/logo.png">
+
 # Create a new Vue project
 ```sh
 vue create .
